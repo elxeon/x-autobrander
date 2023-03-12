@@ -16,7 +16,7 @@ AddEventHandler("x-autobrander-client-breakopenvehicle", function()
                     ESX.ShowNotification("Het is niet gelukt om het voertuig opentebreken..")
                 end
             else
-                ESX.ShowNotification("Je hebt geen snijrabnder om het voertuig mee te openen..")
+                ESX.ShowNotification("Je hebt geen snijbrander om het voertuig mee te openen..")
             end
         else
             ESX.ShowNotification("Zorg dat er een voertuig in de buurt staat")
